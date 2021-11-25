@@ -1,10 +1,10 @@
 # HISTORICAL
 # A/Prof Malcolm Campbell 2021 November
 # Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-# Load libraries
+# Load libraries - NOTE: if not installed,un-hash the install packages
+#install.packages("sf", "tmap")
 library(sf) # For spatial features
-library(dplyr) # For wrangling
-library(tmap)
+library(tmap) # For mapping
 
 ## ONLINE VERSION
 #create temp files
