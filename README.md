@@ -12,4 +12,6 @@ from https://github.com/tjukanovt/30DayMapChallenge
 My 'innovation' is to keep the repository of files, code and data to help teach students about spatial in R Studio.
 
 All the best
+
+
 Malcolm
