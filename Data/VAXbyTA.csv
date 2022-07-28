@@ -1,0 +1,137 @@
+"","Territorial Authority","Age","Population","At least partially vaccinated","Fully vaccinated","Eligible for booster","Booster recieved","Partially vaccinated uptake","Fully vaccinated uptake","Booster uptake"
+"1","Ashburton District","12+",27413,"Masked","Masked",25726,NA,">95%",">95%","72%"
+"2","Ashburton District","5-11",3204,"1,918","879",NA,NA,"60%","27%",NA
+"3","Auckland","12+",1383359,"Masked","Masked",1268664,NA,">95%",">95%","71%"
+"4","Auckland","5-11",163730,"99,164","54,948",NA,NA,"61%","34%",">95%"
+"5","Buller District","12+",8270,"7,775","7,667",7312,NA,"94%","93%","72%"
+"6","Buller District","5-11",719,"355","181",NA,NA,"49%","25%",NA
+"7","Carterton District","12+",8257,"Masked","Masked",7563,NA,">95%",">95%","74%"
+"8","Carterton District","5-11",834,"474","225",NA,NA,"57%","27%",NA
+"9","Central Hawke's Bay District","12+",11832,"Masked","Masked",11046,NA,">95%",">95%","71%"
+"10","Central Hawke's Bay District","5-11",1482,"719","295",NA,NA,"49%","20%",NA
+"11","Central Otago District","12+",19599,"Masked","Masked",18856,NA,">95%",">95%","75%"
+"12","Central Otago District","5-11",1828,"1,115","543",NA,NA,"61%","30%",NA
+"13","Chatham Islands Territory","12+",180,"Masked","Masked",281,212,">95%",">95%","75%"
+"14","Chatham Islands Territory","5-11",10,"9","Masked",NA,NA,"90%","50%",NA
+"15","Christchurch City","12+",322319,"Masked","Masked",306485,NA,">95%",">95%","75%"
+"16","Christchurch City","5-11",31517,"19,662","10,939",NA,NA,"62%","35%",NA
+"17","Clutha District","12+",14979,"14,192","14,030",13275,NA,"95%","94%","68%"
+"18","Clutha District","5-11",1658,"770","320",NA,NA,"46%","19%",NA
+"19","Dunedin City","12+",110451,"Masked","Masked",106039,NA,">95%",">95%","79%"
+"20","Dunedin City","5-11",9730,"6,482","3,785",NA,NA,"67%","39%",NA
+"21","Far North District","12+",56393,"50,763","49,360",46477,NA,"90%","88%","65%"
+"22","Far North District","5-11",7086,"2,148","778",NA,NA,"30%","11%",NA
+"23","Gisborne District","12+",40629,"38,513","37,634",35150,NA,"95%","93%","65%"
+"24","Gisborne District","5-11",5498,"2,770","1,410",NA,NA,"50%","26%",NA
+"25","Gore District","12+",10754,"9,992","9,874",9339,NA,"93%","92%","70%"
+"26","Gore District","5-11",1139,"387","199",NA,NA,"34%","17%",NA
+"27","Grey District","12+",11405,"10,805","10,623",10055,NA,"95%","93%","70%"
+"28","Grey District","5-11",1238,"572","301",NA,NA,"46%","24%",NA
+"29","Hamilton City","12+",137508,"Masked","Masked",127294,NA,">95%",">95%","66%"
+"30","Hamilton City","5-11",17176,"9,343","4,338",NA,NA,"54%","25%",NA
+"31","Hastings District","12+",69329,"Masked","Masked",64835,NA,">95%",">95%","68%"
+"32","Hastings District","5-11",8928,"4,148","1,766",NA,NA,"46%","20%",NA
+"33","Hauraki District","12+",17315,"15,879","15,586",14799,NA,"92%","90%","67%"
+"34","Hauraki District","5-11",1785,"677","278",NA,NA,"38%","16%",NA
+"35","Horowhenua District","12+",28779,"Masked","27,300",25822,NA,">95%","95%","71%"
+"36","Horowhenua District","5-11",3100,"1,408","589",NA,NA,"45%","19%",NA
+"37","Hurunui District","12+",10812,"Masked","Masked",9853,NA,">95%",">95%","72%"
+"38","Hurunui District","5-11",1176,"612","316",NA,NA,"52%","27%",NA
+"39","Invercargill City","12+",45867,"Masked","43,333",40890,NA,">95%","94%","70%"
+"40","Invercargill City","5-11",5141,"2,585","1,266",NA,NA,"50%","25%",NA
+"41","Kaikoura District","12+",3473,"3,212","3,180",3038,NA,"92%","92%","74%"
+"42","Kaikoura District","5-11",315,"153","88",NA,NA,"49%","28%",NA
+"43","Kaipara District","12+",20170,"18,138","17,702",16898,NA,"90%","88%","66%"
+"44","Kaipara District","5-11",2228,"742","305",NA,NA,"33%","14%",NA
+"45","Kapiti Coast District","12+",47224,"Masked","Masked",42900,NA,">95%",">95%","78%"
+"46","Kapiti Coast District","5-11",4658,"2,576","1,559",NA,NA,"55%","33%",NA
+"47","Kawerau District","12+",6115,"5,515","5,323",4975,NA,"90%","87%","59%"
+"48","Kawerau District","5-11",854,"223","46",NA,NA,"26%","5%",NA
+"49","Lower Hutt City","12+",90415,"Masked","Masked",82186,NA,">95%",">95%","74%"
+"50","Lower Hutt City","5-11",10443,"6,614","3,769",NA,NA,"63%","36%",NA
+"51","Mackenzie District","12+",4131,"3,878","3,834",3648,NA,"94%","93%","71%"
+"52","Mackenzie District","5-11",387,"189","80",NA,NA,"49%","21%",NA
+"53","Manawatu District","12+",25552,"Masked","Masked",23255,NA,">95%",">95%","70%"
+"54","Manawatu District","5-11",3183,"1,695","859",NA,NA,"53%","27%",NA
+"55","Marlborough District","12+",41124,"Masked","Masked",38517,NA,">95%",">95%","74%"
+"56","Marlborough District","5-11",4156,"2,276","1,159",NA,NA,"55%","28%",NA
+"57","Masterton District","12+",22673,"Masked","Masked",20500,NA,">95%",">95%","70%"
+"58","Masterton District","5-11",2400,"1,168","465",NA,NA,"49%","19%",NA
+"59","Matamata-Piako District","12+",29213,"Masked","27,689",26196,NA,">95%","95%","64%"
+"60","Matamata-Piako District","5-11",3307,"1,379","507",NA,NA,"42%","15%",NA
+"61","Napier City","12+",54392,"Masked","51,577",48682,NA,">95%","95%","71%"
+"62","Napier City","5-11",6159,"2,950","1,250",NA,NA,"48%","20%",NA
+"63","Nelson City","12+",44831,"Masked","Masked",40903,NA,">95%",">95%","74%"
+"64","Nelson City","5-11",4453,"2,677","1,248",NA,NA,"60%","28%",NA
+"65","New Plymouth District","12+",68131,"Masked","Masked",61568,NA,">95%",">95%","69%"
+"66","New Plymouth District","5-11",8373,"4,034","2,089",NA,NA,"48%","25%",NA
+"67","Opotiki District","12+",7121,"6,730","6,452",6095,NA,"95%","91%","63%"
+"68","Opotiki District","5-11",967,"254","78",NA,NA,"26%","8%",NA
+"69","Otorohanga District","12+",7960,"7,406","7,263",6797,NA,"93%","91%","58%"
+"70","Otorohanga District","5-11",1086,"343","142",NA,NA,"32%","13%",NA
+"71","Palmerston North City","12+",70520,"Masked","Masked",65608,NA,">95%",">95%","73%"
+"72","Palmerston North City","5-11",8374,"4,888","2,676",NA,NA,"58%","32%",NA
+"73","Porirua City","12+",47708,"Masked","Masked",43152,NA,">95%",">95%","72%"
+"74","Porirua City","5-11",6751,"3,921","1,904",NA,NA,"58%","28%",NA
+"75","Queenstown-Lakes District","12+",35833,"Masked","Masked",37024,NA,">95%",">95%","63%"
+"76","Queenstown-Lakes District","5-11",3430,"2,150","1,097",NA,NA,"63%","32%",NA
+"77","Rangitikei District","12+",12699,"11,850","11,667",11049,NA,"93%","92%","70%"
+"78","Rangitikei District","5-11",1491,"687","292",NA,NA,"46%","20%",NA
+"79","Rotorua District","12+",58081,"Masked","54,434",50935,NA,">95%","94%","66%"
+"80","Rotorua District","5-11",7718,"3,323","1,405",NA,NA,"43%","18%",NA
+"81","Ruapehu District","12+",9936,"8,858","8,596",8113,NA,"89%","87%","64%"
+"82","Ruapehu District","5-11",1366,"425","177",NA,NA,"31%","13%",NA
+"83","Selwyn District","12+",52972,"Masked","Masked",54168,NA,">95%",">95%","75%"
+"84","Selwyn District","5-11",6904,"5,087","2,943",NA,NA,"74%","43%",NA
+"85","South Taranaki District","12+",20386,"Masked","Masked",19157,NA,">95%",">95%","65%"
+"86","South Taranaki District","5-11",2692,"1,192","569",NA,NA,"44%","21%",NA
+"87","South Waikato District","12+",19628,"18,134","17,734",16656,NA,"92%","90%","60%"
+"88","South Waikato District","5-11",2626,"969","368",NA,NA,"37%","14%",NA
+"89","South Wairarapa District","12+",9581,"Masked","Masked",8930,NA,">95%",">95%","75%"
+"90","South Wairarapa District","5-11",997,"568","270",NA,NA,"57%","27%",NA
+"91","Southland District","12+",25064,"23,379","23,057",21680,NA,"93%","92%","67%"
+"92","Southland District","5-11",3087,"1,369","644",NA,NA,"44%","21%",NA
+"93","Stratford District","12+",7475,"Masked","7,055",6632,NA,">95%","94%","66%"
+"94","Stratford District","5-11",993,"487","236",NA,NA,"49%","24%",NA
+"95","Tararua District","12+",15002,"14,014","13,756",12932,NA,"93%","92%","67%"
+"96","Tararua District","5-11",1897,"769","328",NA,NA,"41%","17%",NA
+"97","Tasman District","12+",45608,"Masked","Masked",41705,NA,">95%",">95%","71%"
+"98","Tasman District","5-11",4679,"2,232","1,153",NA,NA,"48%","25%",NA
+"99","Taupo District","12+",32180,"Masked","30,101",28435,NA,">95%","94%","65%"
+"100","Taupo District","5-11",3743,"1,472","640",NA,NA,"39%","17%",NA
+"101","Tauranga City","12+",121578,"Masked","Masked",111776,NA,">95%",">95%","66%"
+"102","Tauranga City","5-11",14189,"6,769","2,740",NA,NA,"48%","19%",NA
+"103","Thames-Coromandel District","12+",26265,"24,863","24,487",23558,NA,"95%","93%","74%"
+"104","Thames-Coromandel District","5-11",2164,"874","409",NA,NA,"40%","19%",NA
+"105","Timaru District","12+",41091,"Masked","38,653",36569,NA,">95%","94%","74%"
+"106","Timaru District","5-11",4189,"2,305","1,042",NA,NA,"55%","25%",NA
+"107","Unknown","12+",129586,"51,619","49,995",47319,NA,"40%","39%","60%"
+"108","Unknown","5-11",11050,"2,399","1,229",NA,NA,"22%","11%",NA
+"109","Upper Hutt City","12+",36898,"Masked","Masked",34226,NA,">95%",">95%","75%"
+"110","Upper Hutt City","5-11",4264,"2,889","1,621",NA,NA,"68%","38%",NA
+"111","Waikato District","12+",63214,"Masked","Masked",57566,NA,">95%",">95%","65%"
+"112","Waikato District","5-11",8689,"4,364","1,900",NA,NA,"50%","22%",NA
+"113","Waimakariri District","12+",52718,"Masked","Masked",48921,NA,">95%",">95%","73%"
+"114","Waimakariri District","5-11",5438,"2,973","1,680",NA,NA,"55%","31%",NA
+"115","Waimate District","12+",6936,"6,481","6,404",6078,NA,"93%","92%","72%"
+"116","Waimate District","5-11",693,"301","141",NA,NA,"43%","20%",NA
+"117","Waipa District","12+",46630,"Masked","Masked",42414,NA,">95%",">95%","69%"
+"118","Waipa District","5-11",5531,"2,994","1,536",NA,NA,"54%","28%",NA
+"119","Wairoa District","12+",6303,"Masked","5,782",5428,NA,">95%","92%","66%"
+"120","Wairoa District","5-11",896,"285","78",NA,NA,"32%","9%",NA
+"121","Waitaki District","12+",19318,"Masked","18,190",17218,NA,">95%","94%","72%"
+"122","Waitaki District","5-11",2012,"1,008","421",NA,NA,"50%","21%",NA
+"123","Waitomo District","12+",7758,"7,168","6,991",6476,NA,"92%","90%","61%"
+"124","Waitomo District","5-11",967,"347","126",NA,NA,"36%","13%",NA
+"125","Wellington City","12+",178497,"Masked","Masked",170073,NA,">95%",">95%","82%"
+"126","Wellington City","5-11",16089,"12,175","8,578",NA,NA,"76%","53%",NA
+"127","Western Bay of Plenty District","12+",45656,"Masked","Masked",41230,NA,">95%",">95%","65%"
+"128","Western Bay of Plenty District","5-11",4861,"1,919","720",NA,NA,"39%","15%",NA
+"129","Westland District","12+",7098,"6,690","6,609",6285,NA,"94%","93%","70%"
+"130","Westland District","5-11",670,"302","145",NA,NA,"45%","22%",NA
+"131","Whakatane District","12+",30314,"27,348","26,680",25097,NA,"90%","88%","64%"
+"132","Whakatane District","5-11",3821,"1,318","586",NA,NA,"34%","15%",NA
+"133","Whanganui District","12+",39880,"37,121","36,531",34505,NA,"93%","92%","72%"
+"134","Whanganui District","5-11",4481,"1,859","937",NA,NA,"41%","21%",NA
+"135","Whangarei District","12+",78669,"73,735","72,408",68257,NA,"94%","92%","69%"
+"136","Whangarei District","5-11",9594,"3,929","1,619",NA,NA,"41%","17%",NA
