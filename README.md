@@ -9,7 +9,7 @@ The idea is to create (and publish) maps based on different themes on each day o
 
 from https://github.com/tjukanovt/30DayMapChallenge
 
-My 'innovation' is to keep the repository of files, code and data to help teach students about spatial in R Studio.
+My 'innovation' is to keep the repository of files, code and data to help teach students about spatial in R Studio. (e.g. GISC411)
 
 See the RCode folder for each R script file, the data file for data you may need and the Maps folder for images.
 
