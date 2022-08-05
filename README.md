@@ -15,4 +15,4 @@ See the RCode folder for each R script file and the Maps folder for images.
 
 Happy mapping
 
-Malcolm
+Dr C. (Malcolm)
