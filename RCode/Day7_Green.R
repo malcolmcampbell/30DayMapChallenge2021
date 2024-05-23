@@ -1,5 +1,5 @@
 ################################################################################
-# Updated 2022 August
+# Updated 2024 May - website update data
 # 7 	07-11-2021 	Green 	A map with green colour or a map about something green.
 # see reference
 # Citation: Marek, L., Hobbs, M., Wiki, J., Kingham, S., & Campbell, M. (2021). 
@@ -12,12 +12,13 @@ library(downloader)
 library(sf)
 library(tmap)
 
-url <- c("https://www.canterbury.ac.nz/science/research/geohealth/tabs/publications-reports-and-data/tabs/data/accordion/environmental-goods-and-bads/Environmental_goods_bads_MB2018.zip")
+# WARNING LARGE FILE - 103.2MB
+url <- c("https://www.canterbury.ac.nz/content/dam/uoc-main-site/documents/zip-files/geohealth-laboratory/Environmental_goods_bads_MB2018.zip")
 download(url, dest="HLI.zip", mode="wb") 
 unzip ("HLI.zip", exdir = "./HLI")
 
 # reading in the HLI geopackage
-HLI <- read_sf("MB2018_exposures_GB.gpkg")
+HLI <- read_sf("./HLI/MB2018_exposures_GB.gpkg")
 #plot(st_geometry(HLI))
 
 CHCH_UA <- read_sf("https://github.com/malcolmcampbell/30DayMapChallenge2021/raw/main/Data/CHCH_UA.gpkg")
