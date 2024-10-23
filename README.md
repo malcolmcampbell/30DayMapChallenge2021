@@ -17,5 +17,3 @@ Happy mapping
 
 Dr C. (Malcolm)
 
-![30dmc_2024](https://github.com/user-attachments/assets/383d8a94-bcc0-418c-a6d9-9153743806d8)
-
